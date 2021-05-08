@@ -1,0 +1,6 @@
+/yolov4/water.weights
+/yolov4-tiny
+/digits-dataset/train-images-idx3-ubyte
+/digits-dataset/train-labels-idx1-ubyte
+/digits-dataset-MR-AMR/train-images-idx3-ubyte
+/digits-dataset-MR-AMR/train-labels-idx1-ubyte
